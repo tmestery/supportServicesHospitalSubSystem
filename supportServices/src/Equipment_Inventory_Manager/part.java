@@ -1,7 +1,5 @@
 package Equipment_Inventory_Manager;
 
-import com.sun.jdi.IntegerValue;
-
 public class part {
 
     private String partID;
