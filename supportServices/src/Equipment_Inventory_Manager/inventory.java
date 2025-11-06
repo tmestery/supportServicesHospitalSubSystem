@@ -1,5 +1,4 @@
-package supportServices.Equipment_Inventory_Manager;
-
+package Equipment_Inventory_Manager;
 import java.util.List;
 
 public class inventory {

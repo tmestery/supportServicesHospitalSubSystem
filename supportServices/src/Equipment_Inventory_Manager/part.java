@@ -1,4 +1,6 @@
-package supportServices.Equipment_Inventory_Manager;
+package Equipment_Inventory_Manager;
+
+import com.sun.jdi.IntegerValue;
 
 public class part {
 
@@ -34,7 +36,7 @@ public class part {
         this.name = name;
     }
 
-    public void setQuantity(String quantity) {
+    public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
 }
