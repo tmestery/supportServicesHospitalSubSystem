@@ -1,4 +1,4 @@
-package supportServices.Equipment_Inventory_Manager;
+package supportServices;
 
 public enum status {
     PENDING,
