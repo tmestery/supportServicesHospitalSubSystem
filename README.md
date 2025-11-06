@@ -1,5 +1,4 @@
-# Hospital Management System
-# Support Services (Sub-System)
+# Support Services (Hospital Sub-System)
 
 A simple system to manage hospital operations, including:
 
@@ -8,4 +7,3 @@ A simple system to manage hospital operations, including:
 * Room & bed cleaning turnover
 * Patient transport requests
 * Food & nutrition delivery
-
